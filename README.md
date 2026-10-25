@@ -6,7 +6,7 @@
 
 | Category | Technologies & Skills |
 | :--- | :--- |
-| **Backend & Core** | PHP 8.3, Laravel 11, OOP, SOLID, PSR Standards, REST API |
+| **Backend & Core** | PHP 8.3, Laravel 11, OOP, PSR Standards, REST API |
 | **Databases & Caching** | PostgreSQL, MySQL, Redis |
 | **Frontend & UI** | JavaScript (Vanilla), HTML5, CSS3 (Tailwind CSS, Custom Properties) |
 | **DevOps & Tools** | Docker & Docker Compose, Linux, Nginx, Git, GitHub Actions (CI/CD) |
