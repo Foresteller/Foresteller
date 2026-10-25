@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Barannikov Ivan
 
-<!--
-**Foresteller/Foresteller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Software Engineer** specializing in the **PHP / Laravel** ecosystem. Focus on building reliable, scalable backend architecture, designing robust RESTful APIs, and implementing containerized infrastructure.
 
-Here are some ideas to get you started:
+### Core Competencies & Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Technologies & Skills |
+| :--- | :--- |
+| **Backend & Core** | PHP 8.3, Laravel 11, OOP, SOLID, PSR Standards, REST API |
+| **Databases & Caching** | PostgreSQL, MySQL, Redis |
+| **Frontend & UI** | JavaScript (Vanilla), HTML5, CSS3 (Tailwind CSS, Custom Properties) |
+| **DevOps & Tools** | Docker & Docker Compose, Linux, Nginx, Git, GitHub Actions (CI/CD) |
+| **Testing & Quality** | Pest, PHPUnit, Laravel Pint |
+
+### Contact Information
+
+-  **Telegram:** [@foresteller]https://t.me/foresteller
+-  **Email:** ibarannikov033@gmail.com
